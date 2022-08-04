@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CustomerInfo>
+
+	<customer>
+		<username>dharma005@zoho.com</username>
+		<password>dharma123@</password>
+		<name>Dharmashastha</name>
+		<mobile>6380335964</mobile>
+		<credit>20</credit>
+	</customer>
+
+	<customer>
+		<username>siva987@zoho.com</username>
+		<password>siva1995@</password>
+		<name>Siva</name>
+		<mobile>9087002919</mobile>
+		<credit>60</credit>
+	</customer>
+</CustomerInfo>	

@@ -1,0 +1,17 @@
+syntax = "proto2";
+
+option java_multiple_files = true;
+option java_package = "exercise";
+option java_outer_classname = "PhoneBookInfo";
+
+message Phone
+{
+	optional string name = 1;
+	optional int64 phoneNumber = 2;
+	optional string address = 3;
+} 
+
+message PhoneBook
+{
+	repeated Phone phoneInfo = 1;
+}
